@@ -2,6 +2,14 @@
 
 A one-page personal reach-out card styled as an animated admission ticket. The front introduces me (CSE student at BRAC University, Batch '28). Click or tap the ticket and it flips over to show my contact links.
 
+### ▶ [Open the live card](https://raftans-business-card.vercel.app)
+
+![Card demo: the ticket prints in, tilts, flips to the contact side and shuffles colours](media/demo.gif)
+
+## 🎬 Demo video
+
+<!-- Drag media/demo.mp4 here in GitHub's web editor and it will become a playable video -->
+
 ## How it was made
 
 This is a concept project: I wanted to see whether a business card could feel like an event ticket you get handed, something you can flip over, play with and remember, rather than a flat list of links.
